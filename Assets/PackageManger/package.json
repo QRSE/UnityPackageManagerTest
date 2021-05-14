@@ -1,0 +1,14 @@
+{
+	"name": "com.gamebeartech.unitypackagemanager.test",
+	"displayName": "Unity PackageManger Test",
+	"description": "Unity PackageManger Test use in GitHub!",
+	"version": "1.0.0",
+	"unity": "2018.4",
+	"license": "MIT",
+	"dependencies": {},
+	"author": {
+		"name": "liuzhiyu",
+		"email": "liuzhiyu@gamebeartech.com",
+		"url": "https://www.unity3d.com"
+	}
+}
